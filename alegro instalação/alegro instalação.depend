@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567138957 source:c:\users\kalango\documents\allegro c projects\alegro instalação\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
